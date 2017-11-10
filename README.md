@@ -4,7 +4,7 @@ You can test your proxy list.
 
 ### Usage
 ```sh
-proxy_tester.py [Thread Count]``
+proxy_tester.py [Thread Count]
 ```
 
 ### Config
